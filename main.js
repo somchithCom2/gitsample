@@ -6,3 +6,4 @@ export const colorRed = "#d9d9d9";
 
 export const DWhite = "white";
 export const DBlack = "black";
+export const DGreen = "green";
