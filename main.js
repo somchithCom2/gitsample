@@ -5,4 +5,4 @@ export const colorYellow = "Yellow";
 export const colorRed = "#d9d9d9";
 
 export const DWhite = "white";
-export const DBlack = "black";
+export const DBlack = "black1";
